@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/react-for-beginners/static/css/main.1645c33d.css",
-    "main.js": "/github.io/react-for-beginners/static/js/main.9ebef12d.js",
-    "static/media/MovieLogo.png": "/github.io/react-for-beginners/static/media/MovieLogo.e82c10d70c23e77f6ce4.png",
-    "index.html": "/github.io/react-for-beginners/index.html",
-    "main.1645c33d.css.map": "/github.io/react-for-beginners/static/css/main.1645c33d.css.map",
-    "main.9ebef12d.js.map": "/github.io/react-for-beginners/static/js/main.9ebef12d.js.map"
+    "main.css": "/react-for-beginners/static/css/main.1645c33d.css",
+    "main.js": "/react-for-beginners/static/js/main.4b91bbd0.js",
+    "static/media/MovieLogo.png": "/react-for-beginners/static/media/MovieLogo.e82c10d70c23e77f6ce4.png",
+    "index.html": "/react-for-beginners/index.html",
+    "main.1645c33d.css.map": "/react-for-beginners/static/css/main.1645c33d.css.map",
+    "main.4b91bbd0.js.map": "/react-for-beginners/static/js/main.4b91bbd0.js.map"
   },
   "entrypoints": [
     "static/css/main.1645c33d.css",
-    "static/js/main.9ebef12d.js"
+    "static/js/main.4b91bbd0.js"
   ]
 }
