@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/wnsdud5640/react-for-beginners/static/css/main.1645c33d.css",
-    "main.js": "/wnsdud5640/react-for-beginners/static/js/main.fe39c12c.js",
-    "static/media/MovieLogo.png": "/wnsdud5640/react-for-beginners/static/media/MovieLogo.e82c10d70c23e77f6ce4.png",
-    "index.html": "/wnsdud5640/react-for-beginners/index.html",
-    "main.1645c33d.css.map": "/wnsdud5640/react-for-beginners/static/css/main.1645c33d.css.map",
-    "main.fe39c12c.js.map": "/wnsdud5640/react-for-beginners/static/js/main.fe39c12c.js.map"
+    "main.css": "/github.io/react-for-beginners/static/css/main.1645c33d.css",
+    "main.js": "/github.io/react-for-beginners/static/js/main.9ebef12d.js",
+    "static/media/MovieLogo.png": "/github.io/react-for-beginners/static/media/MovieLogo.e82c10d70c23e77f6ce4.png",
+    "index.html": "/github.io/react-for-beginners/index.html",
+    "main.1645c33d.css.map": "/github.io/react-for-beginners/static/css/main.1645c33d.css.map",
+    "main.9ebef12d.js.map": "/github.io/react-for-beginners/static/js/main.9ebef12d.js.map"
   },
   "entrypoints": [
     "static/css/main.1645c33d.css",
-    "static/js/main.fe39c12c.js"
+    "static/js/main.9ebef12d.js"
   ]
 }
